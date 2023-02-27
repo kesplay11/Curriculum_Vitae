@@ -1,0 +1,69 @@
+ @import url('https://fonts.googleapis.com/css2? family= Tilt+Warp & display=swap');
+
+ header {
+	background-color: #748792  ;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+   border-radius: 50px;
+
+}
+
+ #columna1{
+    background-color: #0D3C5F  ;
+    color: white;
+    font-family:'Roboto Condensed', sans-serif;
+    width: 620px;
+    text-align: center;
+ }
+ #img{
+   width:auto;
+   height: auto;
+   border-radius: 50%; 
+ }
+
+ #izquierda{
+   text-align: left;
+ }
+
+ #col1{
+   font-family:'Roboto Condensed', sans-serif;
+   color: black;
+   background-color: white;
+   border-radius: 15px 50px;
+   border-style:  solid;
+   border-color: black;
+}
+ #columna2 {
+    background-color:white;
+        font-family: 'Roboto Condensed', sans-serif;
+        color: #0D3C5F;
+       
+ }
+ 
+ h1{
+    color:black;
+    font-family: 'Barlow', sans-serif;
+    text-align: center;
+    
+ }
+ #nombre1{
+   text-align: center;
+ }
+ #col2{
+   
+   color:#0D3C5F  ; 
+   text-align: justify;
+   font-family:'Roboto Condensed', sans-serif;
+   border-radius: 50px 15px;
+   border-style: solid;
+ }
+
+
+
+ #pie{
+   border-style: groove;
+ }
+ .contacto{
+   column-count: 3;
+ }
